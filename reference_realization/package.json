@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {"build": "node build.mjs", "render": "remotion render RemotionRoot.tsx"},
+  "dependencies": {"react": "19.2.7", "react-dom": "19.2.7", "remotion": "4.0.487"},
+  "devDependencies": {"@remotion/cli": "4.0.487", "esbuild": "0.28.1"}
+}

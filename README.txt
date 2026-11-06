@@ -1,0 +1,5 @@
+You can open the index.html to play the video demos to see the effect.
+
+The demos shown here represent only a selection; they are primarily designed as animated transitions for spoken-word (talking-head) content. I have developed an automated workflow—powered by Codex AI—for editing and animating such content. This system not only identifies and assembles the most appropriate demos based on the content, but also integrates suitable motion graphics and sound effects. Furthermore, if existing assets are unsuitable, the system can generate custom animations to better showcase the spoken material. This workflow is not limited to a single piece of content (such as product motion demos or data visualizations); once a sufficient library of video assets is integrated, the system can arrange them based on manual layout specifications, user-defined placement instructions, or by leveraging an LLM to analyze the content and automatically assemble it into a coherent sequence.
+
+Since some of the video content I’ve edited for others may involve privacy concerns, I have not included the full compilation—which features a wide range of demos—here.
